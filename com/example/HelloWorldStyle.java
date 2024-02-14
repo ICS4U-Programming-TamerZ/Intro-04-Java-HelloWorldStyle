@@ -9,7 +9,7 @@ package com.example;
  */
 
 // Class
-public class HelloWorldStyle {
+public final class HelloWorldStyle {
 
   /** This is a private constructor used to prevent instantiation. */
   private HelloWorldStyle() {
