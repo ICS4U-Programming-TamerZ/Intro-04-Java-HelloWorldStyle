@@ -11,6 +11,7 @@ public class HelloWorldStyle {
   // Main Entry point method
   public static void main(String[] args) {
     // Output to Console saying "Hello, World!".
-    System.out.println("Hello World, with Style!");
+    System.out.println("Hello Van, with Style!");
+    System.out.println("How are you!");
   }
 }
