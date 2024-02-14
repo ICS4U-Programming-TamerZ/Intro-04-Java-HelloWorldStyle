@@ -1,3 +1,5 @@
+package com.example;
+
 /**
  * Prints Hello world with Style.
  *
@@ -7,9 +9,14 @@
  */
 
 // Class
-public class HelloWorldStyle {
+public final class HelloWorldStyle {
+
+  /**
+   * @param args
+   */
+
   // Main Entry point method
-  public static void main(String[] args) {
+  public static void main(final String[] args) {
     // Output to Console saying "Hello, World!".
     System.out.println("Hello Van, with Style!");
     System.out.println("How are you!");
