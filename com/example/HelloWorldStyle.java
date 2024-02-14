@@ -13,7 +13,7 @@ public final class HelloWorldStyle {
 
   /** This is a private constructor used to prevent instantiation. */
   private HelloWorldStyle() {
-    throw new UnsupportedOperationException("This class cannot be instantiated.");
+    throw new UnsupportedOperationException("Cannot be instantiated.");
   }
 
   /**
